@@ -1,0 +1,22 @@
+.b{
+    width:80px;
+    height:80px;
+    border-radius:10px;
+    border:none;
+    background-color:#8080FF;
+}
+.b:hover{
+    background-color:yellow;
+}
+#a{
+    width:330px;
+    height:50px;
+    margin-left:200px;
+    margin-top:20px;
+}
+body{
+    background-color:red;
+}
+table{
+    margin-left: 200px;
+}
